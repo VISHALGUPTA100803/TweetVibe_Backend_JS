@@ -1,0 +1,27 @@
+{
+  "name": "backendjs-course",
+  "version": "1.0.0",
+  "description": "Backend application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VISHALGUPTA100803/TweetVibe_Backend_JS.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Vishal Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VISHALGUPTA100803/TweetVibe_Backend_JS/issues"
+  },
+  "homepage": "https://github.com/VISHALGUPTA100803/TweetVibe_Backend_JS#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
